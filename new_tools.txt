@@ -1,0 +1,5 @@
+####  NEW TOOLS  ####
+	bad -> cat
+	lsd -> ls
+	fzf -> Ctrl + T
+	ranger -> ranger
